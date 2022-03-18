@@ -21,6 +21,7 @@ body {
 .card__code img {
   border-radius: 10px;
   width: 100%;
+  aspect-ratio: 1;
 }
 .card__title {
   padding-inline: 15px;
